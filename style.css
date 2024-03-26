@@ -1,0 +1,26 @@
+style.css
+    {
+      background-color: #f0f8ff; 
+      font-family: Arial, sans-serif; 
+      text-align: center; 
+      color: #333; 
+    }
+    h1, h3 {
+      color: #8b0000; 
+    }
+    .main-section {
+      margin-top: 50px; 
+      width:900px;
+      border: 2px solid #ccc; /* Add border */
+      border-radius: 10px; /* Rounded corners */
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+      padding: 20px; /* Add padding */
+     margin: 0 auto;
+     margin-bottom: 30px;
+    }
+    .profile-img {
+      width: 150px; 
+      height: 150px; 
+      border-radius: 50%; 
+      object-fit: cover; 
+    }
